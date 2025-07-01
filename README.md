@@ -1,4 +1,4 @@
-# ✈SkyLink Airway Reservation System
+# SkyLink Airway Reservation System
 
 A comprehensive airline reservation and operations management system for SkyLink Airways. This Oracle APEX-based application handles flight bookings, passenger records, baggage tracking, employee assignments, and airport operations with a focus on efficiency, accuracy, and role-based access control.
 
@@ -14,7 +14,7 @@ A comprehensive airline reservation and operations management system for SkyLink
 
 ---
 
-## 🛠Technologies Used
+## Technologies Used
 
 * **Oracle APEX** for application development
 * **PL/SQL** for business logic (functions, procedures, triggers)
@@ -166,13 +166,13 @@ Entities:
 
 ---
 
-## 💼 Authors
+## Authors
 
 * CIA4203 - Enterprise Database Applications - Group Project (2025)
 
 ---
 
-## 🔧 How to Use
+## How to Use
 
 1. Log in using your assigned role.
 2. Navigate to modules via the sidebar.
@@ -181,6 +181,6 @@ Entities:
 
 ---
 
-## 📖 License
+## License
 
-This project is developed for academic purposes only under CIA4203.
+This project is developed for academic purposes only.
